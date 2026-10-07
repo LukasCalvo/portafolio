@@ -1,0 +1,8 @@
+.parrafo{
+  color: brown;
+}
+
+html, body, #root {
+  background-color: black;
+  background-image: url('https://i.pinimg.com/originals/ef/5e/4b/ef5e4b4d024c66b42311e337ae8ab4cc.gif');
+}
