@@ -4,5 +4,14 @@
 
 html, body, #root {
   background-color: black;
-  background-image: url('https://i.pinimg.com/originals/ef/5e/4b/ef5e4b4d024c66b42311e337ae8ab4cc.gif');
+}
+
+.container {
+  background-color: #871400;
+  border-radius: 12px;
+  margin-bottom: 4rem;
+}
+
+#CustomNavbar {
+  margin-bottom: 0;
 }
