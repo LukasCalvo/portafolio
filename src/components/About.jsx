@@ -26,7 +26,7 @@ function About() {
         Estudiante de ingeniería en informática en DUOC UC
       </p>
       <p className="text-light mt-2 px-3">
-        Estudiante de ingeniería en informática en DUOC UC
+        ¡Bienvenido a mi portafolio profesional donde podras ver mis proyectos y noticias recientes!
       </p>
 
       <div className="my-4">
