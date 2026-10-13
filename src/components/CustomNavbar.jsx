@@ -10,6 +10,7 @@ function CustomNavbar() {
             <Nav className="ms-auto">
               <Nav.Link href="#about">Sobre mí</Nav.Link>
               <Nav.Link href="#projects">Proyectos</Nav.Link>
+              <Nav.Link href="#news">Noticias</Nav.Link>
               <Nav.Link href="#contact">Contacto</Nav.Link>
             </Nav>
           </Navbar.Collapse>

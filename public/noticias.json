@@ -1,0 +1,12 @@
+[
+  {
+    "titulo": "Nuevo proyecto: Portafolio Personal con React",
+    "fecha": "10-10-2026",
+    "contenido": "He completado mi portafolio personal desarrollado con React, Bootstrap y Vite. Incluye secciones responsivas, componentes reutilizables y pruebas unitarias con Jasmine y Karma."
+  },
+  {
+    "titulo": "Nueva nota: Desarrollo de Aplicaciones Moviles",
+    "fecha": "2026-10-6",
+    "contenido": "Se me ha entregado la calificación del primer parcial en la asignatura de Desarrollo de Aplicaciones Moviles, siendo de un 5.4."
+  }
+]

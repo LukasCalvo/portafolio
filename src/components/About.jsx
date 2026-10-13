@@ -25,6 +25,9 @@ function About() {
       <p className="lead text-light mt-2 px-3">
         Estudiante de ingeniería en informática en DUOC UC
       </p>
+      <p className="text-light mt-2 px-3">
+        Estudiante de ingeniería en informática en DUOC UC
+      </p>
 
       <div className="my-4">
         <h3 className="text-light mb-3">Mis habilidades</h3>

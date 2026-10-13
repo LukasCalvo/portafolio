@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "Portafolio",
+    "imagen": "/src/assets/proyecto1.png",
+    "descripcion": "Portafolio realizado con React y Bootstrap, pruebas realizadas con Vite.",
+    "tecnologias": ["React", "Bootstrap", "Node.js", "Vite"],
+    "enlace": "https://github.com/LukasCalvo/portafolio"
+  },
+  {
+    "id": 2,
+    "titulo": "GameKeyHub",
+    "imagen": "/src/assets/proyecto2.png",
+    "descripcion": "Plataforma Backend de Marketplace de Llaves de Videojuegos, hecha con arquitectura microservicios en Spring Boot",
+    "tecnologias": ["SpringBoot", "Java", "Eureka"],
+    "enlace": "https://github.com/LukasCalvo/10MicroserviciosExamenTransversal"
+  },
+  {
+    "id": 3,
+    "titulo": "Prototipo Gestion Aduanera",
+    "imagen": "/src/assets/proyecto3.png",
+    "descripcion": "Prototipo de una plataforma acerca de la gestion de las aduanas.",
+    "tecnologias": ["HTML", "JavaScript", "CSS"],
+    "enlace": "https://github.com/LukasCalvo/Prototipo_Ing_Software"
+  }
+]
