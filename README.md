@@ -35,7 +35,7 @@ cd portafolio
 # Instalar dependencias
 npm install
 
-# Desarrollo (localhost:5173)
+# Desarrollo
 npm run dev
 
 # Build producción (carpeta dist/)
