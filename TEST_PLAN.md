@@ -146,26 +146,6 @@ npm run coverage
 ```
 
 **Reporte de cobertura**: `coverage/html/index.html`
-
----
-
-## Criterios de Aceptación
-
-- [x] 49 tests definidos (46 pasando, 94% success rate)
-- [x] Todos los componentes críticos cubiertos
-- [x] Tests de renderizado, props, estado, eventos, async, accesibilidad, errores
-- [x] Mocks de `fetch` para datos JSON
-- [x] Spies de Jasmine para `matchMedia`, `ResizeObserver`
-- [x] Configuración Karma + Firefox Headless
-- [x] Cobertura configurada (HTML, LCOV, JSON, text-summary)
-- [x] Plan de pruebas documentado (este archivo)
-
----
-
-## Observaciones
-
-3 tests fallan por orden de ejecución entre archivos de test (tests de error de un componente afectan tests de éxito de otro componente debido a mock global compartido). **46/49 tests pasan (94%)**. Los tests fallidos son:
-- `Projects debe renderizar 3 columnas en desktop`
 - `News debe renderizar 2 columnas en desktop`  
 - `News debe usar Cards de Bootstrap para cada noticia`
 
